@@ -18,7 +18,7 @@ This Python application allows users to **read and modify text files** using a g
 ## Installation 🚀
 
 1. Clone the repository:
-git clone https://github.com/aizocraft WK4-File-Handling-and-Exception-Handling-Assignment.git
+git clone https://github.com/aizocraft/WK4-File-Handling-and-Exception-Handling-Assignment.git
 
 2. Navigate to the project directory
 
